@@ -1,7 +1,6 @@
-# Cloudupdate
+# Cloudsolution
 Project URL 
-https://sites.google.com/view/cloudchatbot/home/cloudchatbot
-
+https://sites.google.com/view/cloudchatbot/home
 
 
 
